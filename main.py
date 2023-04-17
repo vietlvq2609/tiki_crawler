@@ -19,26 +19,42 @@ driver = webdriver.Chrome(
 driver.get("https://tiki.vn/")
 driver.maximize_window()
 
-searchInput = driver.find_element(By.XPATH, '//*[@id="main-header"]/div/div[1]/div[1]/div[2]/div/input')
-searchInput.send_keys("giày đá bóng")
-searchInput.send_keys(Keys.RETURN)
+searchInput = driver.find_element(By.XPATH, '//*[@id="main-header"]/div/div[1]/div[1]/div[2]/div/input') # find search element
 
-sleep(5)
 
+searchInput.send_keys("giày đá bóng") # type product want to get data from
+
+
+searchInput.send_keys(Keys.RETURN) # click ENTER 
+
+sleep(5) # wait 5 second for filtering products
+
+
+# get search-result products's link and store it into an array
 productLinks = driver.find_elements(By.XPATH, '//a[contains(@class, "product-item")]')
 productLinks = [link.get_attribute("href") for link in productLinks]
 
-###############
-products_data = []
-if productLinks:
-    for i in range(1, 6):
-        driver.get(productLinks[i])
-        name = driver.find_element(By.XPATH, '//h1[@class="title"]').text
 
-        # get current price of product
+products_data = [] # initiate an empty array to store products data
+
+amount_of_products = 10 # replace it with number of product you want to get data from
+
+
+if productLinks:
+
+    # loop for each link to get detail data of product
+    for i in range(1, amount_of_products + 1):
+        driver.get(productLinks[i]) # access to detail product link
+
+        name = driver.find_element(By.XPATH, '//h1[@class="title"]').text # get product's name
+
+        # get product's category
+        category = re.search( r"<span>(.+?)</span>", driver.find_element( By.XPATH, '//*[@id="__next"]/div[1]/main/div[1]/div/div/a[2]').get_attribute("innerHTML")).group(1) 
+
+        ###################### get product prices
         current_price = ""
         regular_price = ""
-        images = ""
+
         left_html = driver.find_element(By.XPATH, '//div[contains(@class, "left")]').get_attribute("innerHTML")
         description = driver.find_element(By.XPATH,'//div[contains(@class, "ToggleContent__View-sc-1dbmfaw-0 wyACs")]').get_attribute("innerHTML")
 
@@ -53,8 +69,10 @@ if productLinks:
             regular_price = current_price_match_pattern2.group(1)
         current_price = re.sub(r"\.", "", current_price)
         regular_price = re.sub(r"\.", "", regular_price)
+        #####################################
 
-        
+        ################ get products image excluding video (dev is noob, so need time to complete this function)
+        images = ""
         imagesEL = driver.find_elements(By.XPATH, '//a[contains(@data-view-id, "pdp_main_view_photo")]')
 
         for el in imagesEL:
@@ -62,11 +80,6 @@ if productLinks:
             imageContainer = driver.find_element( By.XPATH, '//div[contains(@class, "thumbnail")]').get_attribute('innerHTML')
             if re.search(r'<picture class="webpimg-container">', imageContainer):
                 images = images + re.search(r'src="([^"]+)"', imageContainer).group(1) + ", "
-
-            
-        category = re.search( r"<span>(.+?)</span>", driver.find_element( By.XPATH, '//*[@id="__next"]/div[1]/main/div[1]/div/div/a[2]').get_attribute("innerHTML")).group(1)
-
-        print(images)
 
         products_data.append(
             {
