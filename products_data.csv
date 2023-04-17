@@ -1,102 +1,136 @@
 ,ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price start,Date sale price ends,Tax status,Tax class,In stock?,Stock,Low stock amount,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,External URL,Button text,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Attribute 2 name,Attribute 2 value(s),Attribute 2 visible,Attribute 2 global
-0,1,simple,,Apple iPhone 14 Pro Max,1,0,visible,,"<h3>Nội dung quảng cáo</h3>
-<p>iPhone 14 Pro Max. Bắt trọn chi tiết ấn tượng với Camera Chính 48MP. Trải nghiệm iPhone theo cách hoàn toàn mới với Dynamic Island và màn hình Luôn Bật. Công nghệ an toàn quan trọng – Phát Hiện Va Chạm<sup>1</sup> thay bạn gọi trợ giúp khi cần kíp</p>
-<h3>Tính năng nổi bật</h3>
+0,1,simple,,Giày Đá Bóng Wika Ultra 3 Bata Khâu Full Đế Chắc Chắn,1,0,visible,,"<p>Giày Đá Bóng WIKA Ultra 3 Khâu Full Đế Chắc Chắn, Chất Vải Bao Bố Không Phai Xù, Chắc Chắn Ôm Chân</p>
+<p>&nbsp;</p>
+<p><strong> THÔNG TIN SẢN PHẨM: </strong></p>
+<p>- Thương hiệu: Wika sports</p>
+<p>- Xuất xứ: Việt Nam</p>
+<p>- Màu sắc: Đỏ, Xanh</p>
+<p>- Size: 38, 39, 40, 41, 42, 43</p>
+<p>&nbsp;</p>
+<p><strong> THIẾT KẾ SẢN PHẨM: </strong></p>
+<p>- Đế cao su, được khẩu full đế chắc chắn</p>
+<p>- Chất liệu vải bao bố in chuyển nhiệt 3d không phai không xù</p>
+<p>- Đế cao su khâu toàn bộ chắc chắn</p>
+<p>&nbsp;</p>
+<p><strong> ĐẶC ĐIỂM NỔI BẬT</strong></p>
+<p>- Giày Bata Wika Ultra 3 chất lượng, phù hợp với hầu hết các mặt sân</p>
+<p>- Mẫu giày phổ thông dễ tiếp cận với mọi đối tượng khách hàng</p>
+<p>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn</p>
+<p>- Chất liệu nhẹ ,bền bỉ, sản phấm được giới phủi tin dùng với mức giá rẻ</p>
+<p>- Nhiều màu sắc bắt mắt dễ lựa chọn</p>
+<p>&nbsp;</p>
+<p><strong>T.FOOTBALL CAM KẾT </strong></p>
+<p>+ Sản phẩm chính hãng, Đảm bảo chất lượng</p>
+<p>+ Đổi trả theo đúng quy định của Tiki, hỗ trợ đổi size</p>
+<p>+ Xử lý nhanh chóng vấn đề về&nbsp; giao thiếu hàng, nhầm size, nhầm màu.</p>
+<p>+ Do màn hình và điều kiện ánh sáng khác nhau, màu sắc thực tế của sản phẩm có thể chênh lệch khoảng 3-5%&nbsp;</p>
+<p>&nbsp;</p>
+<p>#thethaonam #wika #wikasports #giaydabanh #giay#da#banh #giaydabong #giaybongda #giay#da#bong #giaydabongcaocap #caocap #giaychinhhang #thethao #giaythethao #giaydabongchinhhang</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,115000,115000,Thể Thao - Dã Ngoại,,,"https://salt.tikicdn.com/cache/w1200/ts/product/82/b7/7d/2c2a94cac3a1006f20ceb5ba07a9f789.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/82/b7/7d/2c2a94cac3a1006f20ceb5ba07a9f789.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/2e/e9/e4/a680af683b12ac27053f2b66e2ec08b9.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/5b/87/e2/dcc2baf2033c2053da5935fb74c00a98.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/0a/3a/7e/784c3665de4a33a407913f358158f2b0.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
+1,2,simple,,"Giày đá banh,giày đá bóng sân cỏ nhân tạo đã khâu đế 3 sọc màu trắng",1,0,visible,,"<p><strong>THÔNG TIN SẢN PHẨM</strong></p>
+<div>
+<div class=""attrs-block"">
 <ul>
-<li>Màn hình Super Retina XDR 6,7 inch<sup>2</sup> với tính năng Luôn Bật và ProMotion</li>
-<li>Dynamic Island, một cách mới tuyệt diệu để tương tác với iPhone</li>
-<li>Camera Chính 48MP cho độ phân giải gấp 4 lần</li>
-<li>Chế độ Điện Ảnh nay đã hỗ trợ 4K Dolby Vision tốc độ lên đến 30 fps</li>
-<li>Chế độ Hành Động để quay video cầm tay mượt mà, ổn định</li>
-<li>Công nghệ an toàn quan trọng – Phát Hiện Va Chạm<sup>1</sup> thay bạn gọi trợ giúp khi cần kíp </li>
-<li>Thời lượng pin cả ngày và thời gian xem video lên đến 29 giờ<sup>3</sup></li>
-<li>A16 Bionic, chip điện thoại thông minh tuyệt đỉnh. Mạng di động 5G siêu nhanh<sup>4</sup></li>
-<li>Các tính năng về độ bền dẫn đầu như Ceramic Shield và khả năng chống nước<sup>5</sup></li>
-<li>iOS 16 đem đến thêm nhiều cách để cá nhân hóa, giao tiếp và chia sẻ<sup>6</sup></li>
+<li><strong>Chất liệu:</strong>&nbsp;Simili, PU, Nhựa.</li>
+<li><strong>Độ cao:</strong>&nbsp;&lt; 5 cm.</li>
+<li><strong>Giới tính sử dụng:</strong>&nbsp;Nam &amp; nữ.</li>
 </ul>
-<h3>Pháp lý</h3>
-<p><sup>1</sup>SOS Khẩn Cấp sử dụng kết nối mạng di động hoặc Cuộc Gọi Wi-Fi.<br><sup>2</sup>Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình theo đường chéo là 6,69 inch. Diện tích hiển thị thực tế nhỏ hơn. <br><sup>3</sup>Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình; truy cập apple.com/batteries để biết thêm thông tin.<br><sup>4</sup>Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular.<br><sup>5</sup>iPhone 14 Pro Max có khả năng chống tia nước, chống nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút). Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng. <br><sup>6</sup>Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực.</p>
-<h3>Thông số kỹ thuật </h3>
-<p>Truy cập <a href=""apple.com/iphone/compare"" rel=""nofollow noreferrer"">apple.com/iphone/compare</a></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,27490000,33990000,Điện Thoại - Máy Tính Bảng,,,"https://salt.tikicdn.com/cache/w1200/ts/product/0c/dd/e7/e6431984901119a1f8166cc4e579da93.png, https://salt.tikicdn.com/cache/w1200/ts/product/89/0b/da/b8124e465e0585ba3d8f36a5bf9b4d0d.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/c2/dd/23/895bb2be6ff3b74660e99d36921ee365.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/00/5a/12/ce300c8b558127ce05c73acd9344d5dd.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/39/4d/de/1172b1d37f6880c29ca96eef4c13f9a5.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
-1,2,simple,,Apple iPhone 11,1,0,visible,,"<h3>Nội dung về tính năng</h3>
-<p>Quay video 4K, chụp ảnh chân dung tuyệt đẹp và chụp phong cảnh rộng với hệ thống camera kép hoàn toàn mới. Chụp ảnh tối ưu trong điều kiện ánh sáng yếu với chế độ Ban Đêm. Xem ảnh, video và chơi game với màu sắc chân thực trên màn hình Liquid Retina 6.1 inch.<sup>3</sup> Trải nghiệm hiệu năng tuyệt vời với chip A13 Bionic dành cho game, thực tế ảo tăng cường (AR) và chụp ảnh. Làm được nhiều việc hơn và sạc ít hơn với thời lượng pin bền bỉ cả ngày.<sup>2</sup> Và bớt phải lo lắng nhờ khả năng chống nước ở độ sâu tối đa 2 mét trong vòng 30 phút.<sup>1</sup></p>
-<h3>Tính năng nổi bật</h3>
-<ul>
-<li>Màn hình Liquid Retina HD LCD 6.1 inch<sup>3</sup></li>
-<li>Chống nước và chống bụi (chống nước ở độ sâu 2 mét trong vòng tối đa 30 phút, đạt mức IP68)<sup>1</sup></li>
-<li>Hệ thống camera kép 12MP với camera Ultra Wide và Wide; chế độ Ban Đêm, chế độ Chân Dung, và khả năng quay video 4K tốc độ tối đa 60 fps</li>
-<li>Camera trước TrueDepth 12MP với chế độ Chân Dung, có khả năng quay video 4K, và quay video chậm</li>
-<li>Xác thực bảo mật với Face ID</li>
-<li>Chip A13 Bionic với Neural Engine thế hệ thứ ba</li>
-<li>Khả năng sạc nhanh</li>
-<li>Sạc không dây<sup>4</sup></li>
-<li>iOS 14 với các tiện ích được thiết kế lại trên Màn Hình Chính, Thư Viện Ứng Dụng hoàn toàn mới, App Clips cùng nhiều tính năng khác</li>
-</ul>
-<h3>Pháp lý</h3>
-<p><sup>1</sup>iPhone 11 có khả năng chống tia nước, chống nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529 (chống nước ở độ sâu tối đa 2 mét trong vòng tối đa 30 phút). Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn, và khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng.</p>
-<p><sup>2</sup>Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập để biết thêm thông tin.</p>
-<p><sup>3</sup>Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình&nbsp;iPhone 11 là 6.06 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn.</p>
-<p><sup>4</sup>Không bán kèm bộ sạc không dây Qi.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,10360000,12990000,Điện Thoại - Máy Tính Bảng,,,"https://salt.tikicdn.com/cache/w1200/ts/product/aa/24/e0/57914989351786ef9dfe027046ba4626.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/d5/78/20/39cad59db8dd3855dd46a61d317c8480.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/23/d8/a3/f4042a77db03d2e8c451cc9269cd28d9.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/54/15/ab/eed21a0f717b46b200ec750c532fdec3.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/18/be/e2/bd395efd394982a33256ffcc6b310036.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
-2,3,simple,,Apple iPhone 14,1,0,visible,,"<h3>Nội dung quảng cáo</h3>
-<p>iPhone 14. Với hệ thống camera kép tiên tiến nhất từng có trên iPhone. Chụp những bức ảnh tuyệt đẹp trong điều kiện từ thiếu sáng đến dư sáng. Phát hiện Va Chạm,<sup>1</sup> một tính năng an toàn mới, thay bạn gọi trợ giúp khi cần kíp.</p>
-<h3>Tính năng nổi bật</h3>
-<ul><li>Màn hình Super Retina XDR 6,1 inch<sup>2</sup></li>
-<li>Hệ thống camera tiên tiến cho chất lượng ảnh đẹp hơn trong mọi điều kiện ánh sáng</li>
-<li>Chế độ Điện Ảnh nay đã hỗ trợ 4K Dolby Vision tốc độ lên đến 30 fps</li>
-<li>Chế độ Hành Động để quay video cầm tay mượt mà, ổn định</li>
-<li>Công nghệ an toàn quan trọng - Phát Hiện Va Chạm<sup>1</sup> thay bạn gọi trợ giúp khi cần kíp</li>
-<li>Thời lượng pin cả ngày và thời gian xem video lên đến 20 giờ<sup>3</sup></li>
-<li>Chip A15 Bionic với GPU 5 lõi để đạt hiệu suất siêu nhanh. Mạng di động 5G siêu nhanh<sup>4</sup></li>
-<li>Các tính năng về độ bền dẫn đầu như Ceramic Shield và khả năng chống nước<sup>5</sup></li>
-<li>iOS 16 đem đến thêm nhiều cách để cá nhân hóa, giao tiếp và chia sẻ<sup>6</sup></li>
-</ul><h3>Pháp lý</h3>
-<p><sup>1</sup>SOS Khẩn Cấp sử dụng kết nối mạng di động hoặc Cuộc Gọi Wi-Fi.</p>
-<p><sup>2</sup>Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình theo đường chéo là 6,06 inch. Diện tích hiển thị thực tế nhỏ hơn.</p>
-<p><sup>3</sup>Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình; truy cập  để biết thêm thông tin.</p>
-<p><sup>4</sup>Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. .</p>
-<p><sup>5</sup>iPhone 14 có khả năng chống tia nước, chống nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút). Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng.</p>
-<p><sup>6</sup>Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực.</p>
-<h3>Thông số kỹ thuật</h3>
-<p>Truy cập </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,19650000,24990000,Điện Thoại - Máy Tính Bảng,,,"https://salt.tikicdn.com/cache/w1200/ts/product/ec/45/40/d779c7b58bf0e74d45972e8a359e1d4e.png, https://salt.tikicdn.com/cache/w1200/ts/product/7d/dc/8f/a4c4ad8f2b47df4be250062c7c6b69d8.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/1f/e3/42/26beba227ab7bd69c5e4f2bd857c30cd.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/02/bf/9e/31773ba8f68b7b34ade004d50615b22f.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/e8/40/60/bdc3610e7b50b6e9e4419b4c0ca2f7a0.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
-3,4,simple,,Apple iPhone 14 Pro,1,0,visible,,"<h3>Nội dung quảng cáo</h3>
-<p>iPhone 14 Pro. Bắt trọn chi tiết ấn tượng với Camera Chính 48MP. Trải nghiệm iPhone theo cách hoàn toàn mới với Dynamic Island và màn hình Luôn Bật. Phát Hiện Va Chạm,<sup>1</sup>&nbsp;một tính năng an toàn mới, thay bạn gọi trợ giúp khi cần kíp.</p>
-<h3>Tính năng nổi bật</h3>
-<ul><li>Màn hình Super Retina XDR 6,1 inch<sup>2</sup>&nbsp;với tính năng Luôn Bật và ProMotion</li>
-<li>Dynamic Island, một cách mới tuyệt diệu để tương tác với iPhone</li>
-<li>Camera Chính 48MP cho độ phân giải gấp 4 lần</li>
-<li>Chế độ Điện Ảnh nay đã hỗ trợ 4K Dolby Vision tốc độ lên đến 30 fps</li>
-<li>Chế độ Hành Động để quay video cầm tay mượt mà, ổn định</li>
-<li>Công nghệ an toàn quan trọng – Phát Hiện Va Chạm1 thay bạn gọi trợ giúp khi cần kíp</li>
-<li>Thời lượng pin cả ngày và thời gian xem video lên đến 23 giờ<sup>3</sup></li>
-<li>A16 Bionic, chip điện thoại thông minh tuyệt đỉnh. Mạng di động 5G siêu nhanh<sup>4</sup></li>
-<li>Các tính năng về độ bền dẫn đầu như Ceramic Shield và khả năng chống nước<sup>5</sup></li>
-<li>iOS 16 đem đến thêm nhiều cách để cá nhân hóa, giao tiếp và chia sẻ<sup>6</sup></li>
-</ul><h3>Pháp lý</h3>
-<p><sup>1</sup>SOS Khẩn Cấp sử dụng kết nối mạng di động hoặc Cuộc Gọi Wi-Fi.<br><sup>2</sup>Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình theo đường chéo là 6,12 inch.<br>Diện tích hiển thị thực tế nhỏ hơn.<br><sup>3</sup>Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình; truy cập apple.com/batteries để biết thêm thông tin.<br><sup>4</sup>Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular.<br><sup>5</sup>iPhone 14 Pro có khả năng chống tia nước, chống nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút). Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng.<br><sup>6</sup>Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực.</p>
-<h3>Thông số kỹ thuật</h3>
-<p>Truy cập&nbsp;<a href=""apple.com/iphone/compare"" rel=""nofollow noreferrer"">apple.com/iphone/compare</a></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,25490000,30990000,Điện Thoại - Máy Tính Bảng,,,"https://salt.tikicdn.com/cache/w1200/ts/product/0c/dd/e7/4be0add110579c0ce57e53fba16e656e.png, https://salt.tikicdn.com/cache/w1200/ts/product/89/0b/da/8b477a94538d824b14a42263ab77ec22.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/c2/dd/23/537700a59cfac1cc3659451761fdc928.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/00/5a/12/a5806ea42649b04805f8dfde90a278fa.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/39/4d/de/ee60e5a6b610648f0dc7b1cb9553f72a.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
-4,5,simple,,Apple iPhone 12,1,0,visible,,"<h3>Điện Thoại iPhone 12</h3>
-<p>iPhone 12 đẩy nhanh mọi tác vụ với mạng 5G siêu nhanh.<sup>1</sup> A14 Bionic, chip nhanh nhất trên điện thoại thông minh. Hệ thống camera kép mới. Với màn hình Super Retina XDR tuyệt đẹp, nay bạn có thể chiêm ngưỡng từng chi tiết hình ảnh vô cùng sống động.</p>
-<h3>Nội dung về tính năng</h3>
-<p>iPhone 12. Mạng 5G giúp tải xuống các bộ phim một cách nhanh chóng và xem trực tuyến video chất lượng cao.<sup>1</sup> Màn hình Super Retina XDR 6.1 inch sáng đẹp ấn tượng.<sup>2</sup> Ceramic Shield với khả năng chịu va đập khi rơi tốt hơn gấp 4 lần.<sup>3</sup> Ảnh chụp tuyệt đẹp trong điều kiện ánh sáng yếu với chế độ Ban Đêm ở tất cả các camera. Quay phim, biên tập và phát video Dolby Vision đẳng cấp điện ảnh. Chip A14 Bionic mạnh mẽ. Hãy để điều thú vị bắt đầu.</p>
-<h3>Tính năng nổi bật</h3>
-<ul>
-<li>Màn hình Super Retina XDR 6.1 inch<sup>2</sup></li>
-<li>Ceramic Shield, chất liệu kính bền chắc nhất từng có trên điện thoại thông minh</li>
-<li>Mạng 5G cho tốc độ tải xuống siêu nhanh, xem video và nghe nhạc trực tuyến chất lượng cao<sup>1</sup></li>
-<li>A14 Bionic, chip nhanh nhất từng có trên điện thoại thông minh</li>
-<li>Hệ thống camera kép tiên tiến 12MP với các camera Ultra Wide và Wide; chế độ Ban Đêm, Deep Fusion,</li>
-</ul>
-<p>HDR thông minh thế hệ 3, khả năng quay video HDR Dolby Vision 4K</p>
-<ul>
-<li>Camera trước TrueDepth 12MP với chế độ Ban Đêm và khả năng quay video HDR Dolby Vision 4K</li>
-<li>Khả năng chống nước đạt chuẩn IP68 đứng đầu thị trường<sup>4</sup></li>
-<li>iOS 14 với các tiện ích được thiết kế lại trên Màn Hình Chính, Thư Viện Ứng Dụng hoàn toàn mới, App Clips cùng nhiều tính năng khác</li>
-</ul>
-<h3>Pháp lý</h3>
-<p><sup>1</sup>Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng.&nbsp;Tốc độ có thể thay đổi tùy địa điểm và nhà mạng.&nbsp;Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập.</p>
-<p><sup>2</sup>Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình là 6.06 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn.</p>
-<p><sup>3</sup>Xác nhận dựa vào mặt trước có Ceramic Shield của iPhone 12 so với iPhone thế hệ trước.</p>
-<p><sup>4</sup>iPhone 12 có khả năng chống tia nước, chống nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút). Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng.</p>
-<h3><strong>Thông số kỹ thuật</strong></h3>
-<p>Truy cập để xem cấu hình đầy đủ.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,14990000,16990000,Điện Thoại - Máy Tính Bảng,,,"https://salt.tikicdn.com/cache/w1200/ts/product/c1/4c/1c/2e5ced5d878995fec8abe48ec0afce14.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/8e/9c/b6/40639f8c333ec1fd9d8ded163c1bb580.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/a1/0e/c3/e399091f4481addc8119f155ab9740f4.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/0d/cd/89/754e9263fbf00cacec26f813920b5c07.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/f4/4f/46/5381a127877f1436f648a2e56a9dcdca.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
+</div>
+<div class=""details-block"">
+<div>
+<p>Giày đá bóng đế trong siêu hót</p>
+<p>Đã khâu hết đế,nên ko lo bung tróc, anh em tha hồ tỏa sáng trên sân cỏ</p>
+<p>Mẫu mã thì ko phải chê,đang rất hót</p>
+<p>Chất liệu simili bóng, tuyệt đẹp</p>
+<p>Có lớp lót thấm hút, khô thoáng khi vận động</p>
+<p>Thiết kế đế giày, phom giày ma sát với sân cỏ nhân tạo,nên điều chỉnh bóng rất tốt</p>
+</div>
+</div>
+</div>
+<p><strong>HƯỚNG DẪN CHỌN SIZE</strong></p>
+<p><img src=""https://salt.tikicdn.com/ts/tmp/39/70/f9/8d75766844e6736230c213ce93b672b3.jpg"" alt="""" width=""750"" height=""317""></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,99000,99000,Thể Thao - Dã Ngoại,,,"https://salt.tikicdn.com/cache/w1200/ts/product/07/6f/12/a3ff0a87f7c3165b15484dbaae84649d.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/3f/fc/fa/ca95e13e6256dab89d6567ed9e8c5f7b.jpeg, https://salt.tikicdn.com/cache/w1200/ts/product/91/d0/f7/f9a43639fc78bfe30cf7ccc514ff010a.jpeg, https://salt.tikicdn.com/cache/w1200/ts/product/7d/ac/e8/b1e556001f1eccbdd59ef2af89f68ae6.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/2e/f8/59/6ee7bf91cf138e7f4ac3391afc41a8ec.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
+2,3,simple,,Giày Đá Bóng Nam WIKA Galaxy Light Cổ Cao Thiết Kế Bề Mặt Vân Nổi,1,0,visible,,"<p>Giày Bóng Đá WIKA Galaxy Cổ Cao Vải Sợi Dệt Ôm Chân</p>
+<p> THÔNG TIN SẢN PHẨM:<br>- Mã sản phẩm: 2019 PU-2<br>- Thương hiệu: Wika sports<br>- Xuất xứ: Việt Nam<br>- Size: 39, 40, 41, 42, 43</p>
+<p> THIẾT KẾ SẢN PHẨM:<br>- Chất liệu da tổng hợp mềm mại được kết hợp với bề mặt vân nổi hỗ trợ cầu thủ trong việc kiểm soát và cảm giác bóng tốt trong các điều kiện thời tiết khác nhau. <br>- Đế giày được bố trí đều lớp đinh tròn nhằm tạo độ bám với bề mặt tiếp xúc, giữ thăng bằng và tránh trơn trượt kể cả khi trời mưa.<br>- Họa tiết logo sắc nét chính hãng “ Wika”</p>
+<p> ĐẶC ĐIỂM NỔI BẬT<br>- Thiết kế cổ chun mềm mại ôm chân vừa giúp giữ cố định phần cổ chân, tạo sự linh hoạt và nhạy bén khi vận động.<br>- Mẫu giày phổ thông bền đẹp dễ làm hài lòng với nhiều đối tượng khách hàng<br>- Bảo vệ bàn chân cũng như giảm được các chấn thương không mong muốn<br>- Nhiều màu sắc bắt mắt dễ lựa chọn</p>
+<p>T.FOOTBALL CAM KẾT<br>+ Sản phẩm chính hãng, Đảm bảo chất lượng<br>+ Đổi trả theo đúng quy định của Tiki, hỗ trợ đổi size<br>+ Xử lý nhanh chóng vấn đề về giao thiếu hàng, nhầm size, nhầm màu.<br>+ Do màn hình và điều kiện ánh sáng khác nhau, màu sắc thực tế của sản phẩm có thể chênh lệch khoảng 3-5%</p>
+<p>#thethaonam #wika #wikasports #giaydabanh #giay#da#banh #giaydabong #giaybongda #giay#da#bong #giaydabongcaocap #caocap #giaychinhhang #thethao #giaythethao #giaydabongchinhhang</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,375000,375000,Thể Thao - Dã Ngoại,,,"https://salt.tikicdn.com/cache/w1200/ts/product/53/64/a8/69685080fc7e351c9731395ea4b8da6e.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/53/64/a8/69685080fc7e351c9731395ea4b8da6e.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/3e/c5/80/1f5d7783e6c1325c66ee24e7c0be819f.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/14/1b/ea/1782277c552b419ef8ca9166a1104930.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/ab/14/b7/3f58a2639bdd6673ac09b4829205646f.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
+3,4,simple,,Giày đá bóng nam giày đá banh chính hãng AKKA SPEED 2,1,0,visible,,"<p>*** LƯU Ý CHỌN SIZE: Giày đá bóng, giày đá banh AKKA lớn hơn giày bata thông thường 1 size, tức nếu bạn đi giày bata size 40 thì đi giày AKKA size 41.</p>
+<p><img style=""display:block;margin-left:auto;margin-right:auto"" src=""https://salt.tikicdn.com/ts/tmp/25/23/6b/7e1b46428ab1c00e59fd190da29ce60b.jpg"" alt="""" width=""500"" height=""500""></p>
+<p>*** ĐỔI SIZE THOẢI MÁI NẾU KHÔNG VỪA</p>
+<p>======= THÔNG TIN SẢN PHẨM ================</p>
+<p>GIÀY ĐÁ BÓNG NAM AKKA</p>
+<p>️ Thương hiệu: Giày đá bóng nam AKKA</p>
+<p>️ Sở hữu thương hiệu: CTCP Thế Giới Bóng Đá</p>
+<p>️ Giày đá bóng nam với da Microfiber cao cấp</p>
+<p>️ Đế giày đá bóng sân cỏ nhân tạo bằng cao su bền, và rất bám sân</p>
+<p>️ Lót giày đá banh định hình EVA êm, chống sốc</p>
+<p>️ Giày đá bóng nam AKKA có nhiều form chân: Speed chân thon, Control chân vừa, Power chân bè</p>
+<p>️ Trọng lượng giày đá bóng sân cỏ nhân tạo nhẹ, chỉ 250gr/chiếc</p>
+<p>️ Không thấm nước và dễ dàng vệ sinh</p>
+<p><img style=""display:block;margin-left:auto;margin-right:auto"" src=""https://salt.tikicdn.com/ts/tmp/9e/4f/7c/9e76fa920e7ed9d570dc627a28dd04d6.jpg"" alt="""" width=""500"" height=""500""></p>
+<p>GIÀY ĐÁ BÓNG NAM AKKA SPEED TF</p>
+<p>️ Giày đá bóng nam AKKA SPEED Phù hợp với các cầu thủ có lối chơi tốc độ.</p>
+<p>️ Thân giày đá bóng nam, giày đá banh AKKA được làm từ da Microfiber (một trong những loại da nhân tạo cao cấp nhất thị trường) mang lại cảm giác mềm, mỏng cảm giác bóng thật như chân trần</p>
+<p>️ Trọng lượng giày đá bóng sân cỏ nhân tạo nhẹ nhất, khoảng 250gr/chiếc, với phần mũ giày đá bóng được lược bỏ tối đa các lớp vật liệu phụ mà vẫn đảm bảo độ bền và giữ form đôi giày đá bóng nam.</p>
+<p>️ Giày đá bóng cổ cao với cổ chun ôm chân và bảo vệ mắt cá chân tránh chấn thương</p>
+<p>️ Gót giày đá bóng nam chắc chắn, được định hình chắc chắn và có móc kéo để dễ xỏ giày</p>
+<p><img style=""display:block;margin-left:auto;margin-right:auto"" src=""https://salt.tikicdn.com/ts/tmp/a0/e2/b8/5b6b84729ae2bd2737b002b3a7cc3ca5.jpg"" alt="""" width=""500"" height=""500""></p>
+<p>======= CAM KẾT CỦA SHOP ====================</p>
+<p>️ Giao hàng tận nhà, thanh toán khi nhận hàng</p>
+<p>️ Cam kết CHÍNH HÃNG</p>
+<p>️ Hình ảnh – Video thật 100% do SHOP tự chụp</p>
+<p>️ ĐƯỢC ĐỔI SIZE THOẢI MÁI nếu không vừa</p>
+<p>️ Bảo hành 6 tháng, 1 đổi 1 nếu có lỗi nhà sản xuất</p>
+<p>=============================================</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,520000,520000,Thể Thao - Dã Ngoại,,,"https://salt.tikicdn.com/cache/w1200/ts/product/67/1c/3d/9490a81b9e9a7850d212ac585eedea98.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/67/1c/3d/9490a81b9e9a7850d212ac585eedea98.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/e7/99/4f/e53bc2cfe37b7e66c351430f8ced9f58.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/60/62/32/482033ea2ad2b33e72213e37e5381419.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/14/49/36/4f6a483122ab6ec0db87594ac6d331e1.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
+4,5,simple,,Giày đá bóng Zocker ZTF SPACE 2001 Black,1,0,visible,,"<div><span>Giới thiệu Thương hiệu </span></div>
+<div><span>Zocker - Top Thương hiệu giày đá bóng sân cỏ nhân tạo hàng đầu Việt Nam tiên phong trong việc nghiên cứu thiết kế chuyên biệt phần đế. Với mẫu mã bắt mắt, chất liệu mềm, ôm chân, giá thành hợp lý, Zocker chắc chắn sẽ khiến bạn hài lòng khi lựa chọn - tự tin sải bước trên những trận đấu.</span></div>
+<div>&nbsp;</div>
+<div><span>Thông tin sản phẩm</span></div>
+<div><span>- Chất liệu: Da PU</span></div>
+<div><span>- Đế: Cao su</span></div>
+<div><span>- Trọng lượng: nhẹ, 250g/chiếc</span></div>
+<div><span>- Size: 38-44</span></div>
+<div><span>- Bảo hành: 4 tháng</span></div>
+<div><span>- Quà tặng: Túi đựng giày Zocker</span></div>
+<div>&nbsp;</div>
+<div><span>Hướng dẫn chọn Size giầy đá bóng Zocker</span></div>
+<div><img style=""margin-left:auto;margin-right:auto"" src=""https://salt.tikicdn.com/ts/tmp/71/56/8c/8ada9216d2318d6bae0cdcf40006def3.png"" alt="""" width=""750"" height=""750""></div>
+<div>&nbsp;</div>
+<div><span>Cấu tạo chi tiết</span></div>
+<div><span>- Giày đá bóng Zocker với form dáng thon gọn, ôm chân vừa khít, giúp bạn dễ dàng tăng tốc tối đa.</span></div>
+<div><span>- Chất liệu da PU cao cấp ÊM MỀM NHẸ với bề mặt được xử lý vân 3D, tạo độ nhám giúp người mang khống chế bóng dễ dàng hơn, vệ sinh dễ dàng.</span></div>
+<div><span>- Mũi giày thon, với những đường may kép chắc chắn giúp xử lý dính bóng đồng thời tạo độ xoáy cần thiết cho các pha cứa lòng.</span></div>
+<div><span>- Gót giày được định hình cứng cáp; phía trong có lớp lót cao su non thoáng khí tạo cảm giác thoải mái trong suốt trận đấu.</span></div>
+<div><span>- Đế đinh TF đúc cao su 100% nguyên khối.</span></div>
+<div>&nbsp;</div>
+<div><span>Ưu điểm sản phẩm</span></div>
+<div><span>️ CÔNG NGHỆ MA SÁT KÉP ĐỘC QUYỀN</span></div>
+<div><span>Sử dụng công nghệ ma sát kép giúp bám sân, 2 loại đinh dăm tròn và ngôi sao 3 cánh hạn chế trơn trượt, cho khả năng trụ vững và đổi hướng tuyệt vời.</span></div>
+<div><span>️ CÔNG NGHỆ GIẢM CHẤN TỐI ƯU</span></div>
+<div><span>Sử dụng lót giầy bằng cao su non, bền bỉ và đàn hồi tốt giúp tiếp đất êm chân, giảm tác động lực lên khớp gối và cột sống.</span></div>
+<div><span>️ CÔNG NGHỆ DẬP NỔI VÂN 3D</span></div>
+<div><span>Tăng cường độ ma sát trên bề mặt da, xử lý dính bóng chuyên nghiệp, dễ dàng khống chế bóng và sút bóng chuẩn xác.</span></div>
+<div>&nbsp;</div>
+<div><span>Hướng dẫn khi sử dụng</span></div>
+<div><span>- Tránh tiếp xúc với hóa chất dễ làm hư da giày.</span></div>
+<div><span>- Tránh để giày ở điều kiện thiếu ánh sáng dễ làm ẩm giày.</span></div>
+<div><span>- Phơi giầy chỗ thoáng mát tránh ánh nắng mặt trời trực tiếp.</span></div>
+<div>&nbsp;</div>
+<div><span>️ LƯU Ý: </span></div>
+<div><span>- Nếu có bất kỳ khiếu nại cần Shop hỗ trợ về sản phẩm, khi mở sản phẩm Quý khách vui lòng quay lại video quá trình mở sản phẩm để được đảm bảo 100% đổi lại sản phẩm mới nếu Shop giao bị lỗi.</span></div>
+<div><span>- Quý khách nhận được sản phẩm, vui lòng đánh giá giúp Shop để hưởng thêm nhiều ưu đãi hơn nhé.</span></div>
+<div>&nbsp;</div>
+<div>
+<div class=""emoji-sizer emoji-outer""></div>
+<span> Shop cam kết: </span></div>
+<div><span>- Sản phẩm chính hãng 100%.</span></div>
+<div><span>- Cam kết sản phẩm giống như hình ảnh.</span></div>
+<div><span>- Hỗ trợ đổi trả theo quy định.</span></div>
+<div><span>- Thương hiệu tạo niềm tin.</span></div>
+<p><img style=""margin-left:auto;margin-right:auto"" title="""" src=""https://salt.tikicdn.com/ts/tmp/56/41/4b/9c0630773543d3ae9962ed391e232be8.jpg"" alt="""" width=""750"" height=""750""></p>
+<p><img style=""margin-left:auto;margin-right:auto"" title="""" src=""https://salt.tikicdn.com/ts/tmp/d0/de/ee/202faafb10928a15d7f31dcf1e08833a.jpg"" alt="""" width=""750"" height=""750""></p>
+<p>&nbsp;</p>
+<p><img style=""margin-left:auto;margin-right:auto"" title="""" src=""https://salt.tikicdn.com/ts/tmp/dc/9d/55/2e3b919eaf56b335bbed11336757e034.jpg"" alt="""" width=""750"" height=""750""></p>
+<p><img style=""margin-left:auto;margin-right:auto"" title="""" src=""https://salt.tikicdn.com/ts/tmp/57/76/2b/8c6215b1723dcfd35489670835e17fab.jpg"" alt="""" width=""750"" height=""750""></p>
+<p><img style=""margin-left:auto;margin-right:auto"" title="""" src=""https://salt.tikicdn.com/ts/tmp/17/bc/36/1b696d5b98bf412c7ad5ee4d3cb18121.jpg"" alt="""" width=""750"" height=""750""></p>
+<p class=""text-justify"">Có thể nói&nbsp;<strong>Zocker Space&nbsp;</strong>là mẫu giày công - thủ toàn diện, phù hợp với lối chơi linh hoạt - một tố chất thường thấy ở các cầu thủ Việt!</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><div class=""gradient""></div>",,,taxable,,1,,,0,0,,,,,1,,569000,569000,Thể Thao - Dã Ngoại,,,"https://salt.tikicdn.com/cache/w1200/ts/product/6e/2c/78/0a0508e8b92dee3d607655227c9e024d.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/20/34/34/7c3cf2c5c89530c2922955c5f3447a85.jpg, https://salt.tikicdn.com/cache/w1200/media/catalog/producttmp/63/aa/81/763458cad23b91ac7e167fbe7b09ec07.jpg, https://salt.tikicdn.com/cache/w1200/ts/product/96/4c/67/38bcab19f1a4f3ffe09e90aea0919975.jpg, https://salt.tikicdn.com/cache/w1200/media/catalog/producttmp/1a/d8/96/b895ed2d91f4d276a887337d9489af13.jpg, ",,,,,Cross-sells,,,0,,,0,1,,,0,1
